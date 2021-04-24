@@ -1,2 +1,2 @@
 # git-github
-Created for practice
+This is for tutorial purpose
